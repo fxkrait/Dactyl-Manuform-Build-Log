@@ -40,6 +40,11 @@ Flash from within the QMK_Firmware root directory:
 sudo make handwired/dactyl_manuform/5x6:greg:avrdude
 
 
+see greg(1).json to upload to QMK for my layout.
+
+unzip the attached zip to 5x6 layouts in a new keymap folder called "greg".
+
+
 ### Purchases:
 
 #### Wires:
