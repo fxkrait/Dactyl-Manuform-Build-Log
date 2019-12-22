@@ -23,13 +23,17 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 ### Purchases:
 
 #### Wires:
+
 https://www.ebay.com/itm/40PC-Dupont-20CM-Male-To-Female-Jumper-Wire-Ribbon-Cable-F-Arduino-Breadboard-AA/112403384085?ssPageName=STRK%3AMEBIDX%3AIT
+
 https://www.ebay.com/itm/Micro-USB-2-0-Male-to-Female-connector-Adapter-Cable-30cm-With-Panel-Mount-Hole/391957934957?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
 #### 4 more arduinos
+
 https://www.ebay.com/itm/1pcs-Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-Arduino-Pro-Mini/183739584199?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
 #### first set of arduinos (I broke the connectors off on all 4)
+
 https://www.ebay.com/itm/Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-Arduino-Pro-Mini-LA/392189223872?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
 
@@ -41,12 +45,36 @@ https://www.ebay.com/itm/100-M3-0-5x5mm-OR-M3X5-mm-Socket-Allen-Head-Cap-Screw-S
 $2.57: 10 Female Micro USB to DIP Adapter Converter 2.54mm PCB Breakout Board DIY
 
 $1.96 (2): 9.3" Black RJ9 Telephone Phone Modem Coil Line Cord Cable
+
 Diodes:
 
 $8.55 (3): 100 x 1N4148 Diodes DO-35 Switching Signal 4148 - USA SELLER - Free Shipping
 
 
 #### keycaps:
+
 https://www.aliexpress.com/item/32904396891.html
+
  $ 17.48 X1: Purple Pink 
+ 
  $ 17.48: Grey White
+ 
+ #### pads:
+ 
+ https://www.amazon.com/gp/product/B06ZZDMHGX/
+
+
+
+### JailHouse Blue Switch Materials:
+
+#### Latex (for upper switch housing):
+
+https://www.amazon.com/gp/product/B00HMBN5PC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+#### O-Rings as JSpacers:
+
+https://www.amazon.com/gp/product/B015O31JFM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+#### Gateron Blue Switches:
+
+https://novelkeys.xyz/products/gateron-switches?variant=19441344970845
