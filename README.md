@@ -35,6 +35,9 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 
 https://config.qmk.fm/#/handwired/dactyl_manuform/5x6/LAYOUT_5x6
 
+Flash from within the QMK_Firmware root directory:
+
+sudo make handwired/dactyl_manuform/5x6:greg:avrdude
 
 
 ### Purchases:
