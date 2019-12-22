@@ -30,6 +30,13 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 ### Wiring:
 ![Wiring:](wiringTip.jpg)
 
+
+### layout:
+
+https://config.qmk.fm/#/handwired/dactyl_manuform/5x6/LAYOUT_5x6
+
+
+
 ### Purchases:
 
 #### Wires:
