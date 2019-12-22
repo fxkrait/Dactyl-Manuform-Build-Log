@@ -44,3 +44,9 @@ $1.96 (2): 9.3" Black RJ9 Telephone Phone Modem Coil Line Cord Cable
 Diodes:
 
 $8.55 (3): 100 x 1N4148 Diodes DO-35 Switching Signal 4148 - USA SELLER - Free Shipping
+
+
+#### keycaps:
+https://www.aliexpress.com/item/32904396891.html
+ $ 17.48 X1: Purple Pink 
+ $ 17.48: Grey White
