@@ -13,6 +13,16 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 
 5) No mounting for a reset button. Everytime you flash this keyboard, you need to short two pins on the arduino. Without an external button to do this, I have to dissasemble the bottom plate to short this. This can get annoying if you are changing your layout often.
 
+### Tips:
+
+1) DOUBLE CHECK YOU ARE WIRING YOUR DIODES IN THE CORRECT ORIENTATION (Black side away from switch)
+
+2) Use solid core wiring + twist them around switch.
+ 
+3) Use jumper wires for the arduino (great for color coding as well + easy removal).
+
+
+
 ### Picture of the keyboard:
 ![Completed Dactyl:](OverviewPicture.jpg)
 
