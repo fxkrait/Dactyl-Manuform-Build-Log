@@ -104,6 +104,10 @@ Trampoline Mod:
 
 https://old.reddit.com/r/MechanicalKeyboards/comments/5qmywo/a_relatively_simple_method_of_silencing_any/
 
+Mod to consider to potentially get more Topre-Like experience:
+
+https://old.reddit.com/r/MechanicalKeyboards/comments/886rwr/modification_raincoat_mod_feat_cop_car_keyboard/
+
 #### Latex (for upper switch housing):
 
 https://www.amazon.com/gp/product/B00HMBN5PC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
