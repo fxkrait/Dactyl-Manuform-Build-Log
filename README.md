@@ -77,6 +77,14 @@ https://www.aliexpress.com/item/32904396891.html
 
 ### JailHouse Blue Switch Materials:
 
+Guides:  
+
+https://old.reddit.com/r/MechanicalKeyboards/comments/5rf8dw/jailhouse_blues_w_orings_guide/
+
+Trampoline Mod:
+
+https://old.reddit.com/r/MechanicalKeyboards/comments/5qmywo/a_relatively_simple_method_of_silencing_any/
+
 #### Latex (for upper switch housing):
 
 https://www.amazon.com/gp/product/B00HMBN5PC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
