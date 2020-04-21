@@ -3,15 +3,13 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 
 ### Issues encountered:
 
-1) The wiring diagram provided for the 3-wire serial connection between the arduinos is INCORRECT. What you are supposed to do, is you the same pins, but use the SAME WIRE on the same pin for each. The wiring diagram given swaps some wires, and it does not work.
+1) The RJ-9 connection does work, however wiring it is weird. I believe that the black connected to yellow, and red connected to green. It was weird. Use a multimeter and continuity test to verify it for your setup.
 
-2) The RJ-9 connection DOES NOT WORK. I have seen many issues on reddit, complaining about the serial connection not working. I believe this is partly related to the incorrect wiring diagram, but also do to the RJ-9 being insufficient for some reason. Upon replacing the whole RJ-9 setup with direct wiring, the serial connection functioned properly.
+2) There is no mounting for the arduino. It hangs inside. I have done some cable management techniques to (knots of sorts) to prevent connectors being ripped out. I also sandwiched a piece of paper under the arduino to prevent electrical shorts with the wiring (as it rests directly upon it).
 
-3) There is no mounting for the arduino. It hangs inside. I have done some cable management techniques to (knots of sorts) to prevent connectors being ripped out. I also sandwiched a piece of paper under the arduino to prevent electrical shorts with the wiring (as it rests directly upon it).
+3) There is no mounting for the micro-USB connection. This is a huge issue, as I have already broken 4 arduinos from the micro-usb snapping off. I had to buy a microusb extender, that has screw holes that I can mount on the case, to prevent this. I had to drill + dremel this out, however it works great.
 
-4) There is no mounting for the micro-USB connection. This is a huge issue, as I have already broken 4 arduinos from the micro-usb snapping off. I had to buy a microusb extender, that has screw holes that I can mount on the case, to prevent this. I had to drill + dremel this out, however it works great.
-
-5) No mounting for a reset button. Everytime you flash this keyboard, you need to short two pins on the arduino. Without an external button to do this, I have to dissasemble the bottom plate to short this. This can get annoying if you are changing your layout often.
+4) No mounting for a reset button. Everytime you flash this keyboard, you need to short two pins on the arduino. Without an external button to do this, I have to dissasemble the bottom plate to short this. This can get annoying if you are changing your layout often.
 
 ### Tips:
 
