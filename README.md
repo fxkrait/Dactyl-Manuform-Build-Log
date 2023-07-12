@@ -40,6 +40,9 @@ Do `qmk json2c -o keymap.c greg.json`, we need the `keymap.c` it generates.
 Flash the following from within the QMK_Firmware root directory:
 
 - `sudo make handwired/dactyl_manuform/5x6:greg:avrdude`
+  - If you need `avr-gcc` to run this, then for nixos reference:
+    - https://discourse.nixos.org/t/struggling-to-install-avr-gcc/8755/3
+    - `pkgsCross.avr.buildPackages.gcc`
 
 Other files (don't need): unzip the attached zip to 5x6 layouts in a new keymap folder called "greg".
 
