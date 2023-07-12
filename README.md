@@ -33,14 +33,15 @@ Here is some documentation notes about the Dactyl Manuform keyboard I built. Mor
 
 https://config.qmk.fm/#/handwired/dactyl_manuform/5x6/LAYOUT_5x6
 
-Flash from within the QMK_Firmware root directory:
+Take the QMK Configurator layout: greg(1).json, put it in dactyl_manuform/5x6/keymaps/greg
 
-sudo make handwired/dactyl_manuform/5x6:greg:avrdude
+Do `qmk json2c -o keymap.c greg.json`, we need the `keymap.c` it generates.
 
+Flash the following from within the QMK_Firmware root directory:
 
-see greg(1).json to upload to QMK for my layout.
+- `sudo make handwired/dactyl_manuform/5x6:greg:avrdude`
 
-unzip the attached zip to 5x6 layouts in a new keymap folder called "greg".
+Other files (don't need): unzip the attached zip to 5x6 layouts in a new keymap folder called "greg".
 
 
 ### Purchases:
